@@ -1,1 +1,0 @@
-/Users/sajidrizvi/projects/rust-uniswap-tutorial/target/debug/rust-uniswap-tutorial: /Users/sajidrizvi/projects/rust-uniswap-tutorial/src/main.rs /Users/sajidrizvi/projects/rust-uniswap-tutorial/src/router02_abi.json
