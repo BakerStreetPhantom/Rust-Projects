@@ -1,1 +1,0 @@
-/Users/sajidrizvi/projects/rust-web3-basics-tutorial/target/debug/rust-web3-basics-tutorial: /Users/sajidrizvi/projects/rust-web3-basics-tutorial/src/erc20_abi.json /Users/sajidrizvi/projects/rust-web3-basics-tutorial/src/main.rs
